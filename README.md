@@ -1,7 +1,7 @@
 # AI诗词创作助手
 
 一个优雅的AI驱动的诗词创作工具，支持多种AI模型，可以生成现代诗、古风诗和俳句等多种风格的诗词作品。
-[在线体验](http://www.baiyiqingxiang.online:8100/)
+[在线体验](https://52token.github.io/Poetry-generator/)
 
 ## ✨ 特性
 
@@ -96,6 +96,7 @@
 - [ ] 支持批量导出历史记录
 
 ## 👥 作者
+本项目Fork于(https://github.com/baiqingxiang0/Poetry-generator
 
 - Email: baiqingxiang01@gmail.com
 
